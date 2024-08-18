@@ -1,5 +1,5 @@
 streamlit
-textblob
+#textblob
 autocorrect
 language_tool_python
 requests
