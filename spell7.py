@@ -1,5 +1,5 @@
 import streamlit as st
-from textblob import TextBlob
+#from textblob import TextBlob
 from autocorrect import Speller
 from language_tool_python import LanguageTool
 import requests
