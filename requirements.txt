@@ -1,0 +1,7 @@
+streamlit
+textblob
+autocorrect
+language_tool_python
+requests
+pyperclip
+
